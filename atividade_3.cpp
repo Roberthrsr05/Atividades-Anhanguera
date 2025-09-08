@@ -19,6 +19,6 @@ int main(){
     media = soma /3;
 
     printf("O resultado da soma e: %.2f\n", soma);
-    printf("\nA media da soma dos numero e: %.2f", media);
+    printf("A media da soma dos numero e: %.2f", media);
     return 0;
 }
