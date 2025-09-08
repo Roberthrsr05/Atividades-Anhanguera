@@ -13,6 +13,6 @@ int main(){
 
     resto = num2 % num1;
 
-    printf("Resultado do resto da divisao e: %d", resto);
+    printf("Resultado do resto da divisao e: %d\n", resto);
     return 0;
 }
