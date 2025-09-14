@@ -7,7 +7,7 @@ int main(){
     float receitamensal, valordamensalidade;
     int clientes;
 
-    printf("Quantos clientes tem utilizando o estacionamento: ");
+    printf("Quantos clientes ta utilizando o estacionamento: ");
     scanf("%d", &clientes);
 
     printf("O valor da mensalidade e: ");
